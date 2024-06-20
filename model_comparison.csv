@@ -1,0 +1,5 @@
+Model,Configuration,MSE
+Random Forest,Default,12318596.392682677
+Random Forest,Best,12266002.939632047
+Neural Network,Default,173297440.0
+Neural Network,Best,34059904.0
